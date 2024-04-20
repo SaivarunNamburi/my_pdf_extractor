@@ -1,6 +1,6 @@
-last_name,first_name,email,phone_number
-Colon,Andres,acolon01@outlook.com,407-750-2656
-Ramesh,Pooja,ramesh.po@northeastern.edu,857-757-0070
-Varun,Sai,saivarun.namburi@gmail.com,857-265-1349
-Arhan,Ujjanth,arhan.u@northeastern.edu,857-313-2887
-Pavan,Venkat,munaganti.v@northeastern.edu,857-268-9748
+last_name,email,first_name,phone_number
+Colon,acolon01@outlook.com,Andres,407-750-2656
+Ramesh,ramesh.po@northeastern.edu,Pooja,857-757-0070
+Varun,saivarun.namburi@gmail.com,Sai,857-265-1349
+Arhan,arhan.u@northeastern.edu,Ujjanth,857-313-2887
+Pavan,munaganti.v@northeastern.edu,Venkat,857-268-9748
