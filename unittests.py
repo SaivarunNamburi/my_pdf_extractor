@@ -4,7 +4,7 @@ from my_pdf_extractor.extractor import *
 
 class MyTestCase(unittest.TestCase):
     def test_extract_info_from_file_pdf(self):
-        file_path = 'C:\Disk_D\CourseWork\Intro to Programming for DS\Project\Resumes\SaiVaruKumar_A.pdf'
+        file_path = 'Resumes\SaiVaruKumar_A.pdf'
         result = extract_info_from_file(file_path)
         self.assertEqual(result['first_name'], 'Sai')
         self.assertEqual(result['last_name'], 'Varun')
@@ -14,7 +14,7 @@ class MyTestCase(unittest.TestCase):
     # Add more test cases for other file formats if needed
 
     def test_extract_info_from_folder(self):
-        folder_path = 'C:\Disk_D\CourseWork\Intro to Programming for DS\Project\Resumes'
+        folder_path = 'Resumes'
         result = extract_info_from_folder(folder_path)
         self.assertEqual(len(result), 5)  # Assuming there are 5 resumes in the folder
         # Add assertions for the extracted information from each résumé
