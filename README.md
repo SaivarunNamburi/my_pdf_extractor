@@ -27,10 +27,10 @@ The PDF Resume Extractor is a tool designed to simplify the process of extractin
 
 5. **Run unit tests:**
    ```
-   python test_pdf_extractor.py
+   python unittests.py
    ```
 
-6. **Run the main function:**
+6. **Run the main function in your terminal:**
    ```
    python importmodule.py
    ```
