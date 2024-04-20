@@ -1,0 +1,1 @@
+from my_pdf_extractor.extractor import *
