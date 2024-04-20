@@ -8,7 +8,7 @@ The PDF Resume Extractor is a tool designed to simplify the process of extractin
 
 ### Steps to run this module:
 
-1. **Make sure Python is installed on your system.**
+1. **Make sure Python and Git are installed on your system.**
 
 2. **Clone the repository:**
    ```
